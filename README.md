@@ -9,6 +9,7 @@
 <a href="https://github.com/search?q=user%3Abguemos+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FF0000.svg?logo=javascript&logoColor=black"></a>
 <a href="https://github.com/search?q=user%3Abguemos+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=pink"></a>
 <a href="https://github.com/search?q=user%3Abguemos+language%3Afirebase"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Abguemos+language%3Areact">img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
  
  
 </p>
