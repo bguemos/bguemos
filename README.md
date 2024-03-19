@@ -1,6 +1,6 @@
 
 <h2 align="center"> Hello! I'm Bri-lynn Guemos 👧🏻 </h2>
-<p>
+<p align="center">
  <a href="#"><img alt="Portfolio" src="https://img.shields.io/badge/view-portfolio?style=flat&label=Portfolio&labelColor=FF85AF&color=EAF4F4&link=https%3A%2F%2Fbri-lynng.ca%2F"></a>
  
 </p>
